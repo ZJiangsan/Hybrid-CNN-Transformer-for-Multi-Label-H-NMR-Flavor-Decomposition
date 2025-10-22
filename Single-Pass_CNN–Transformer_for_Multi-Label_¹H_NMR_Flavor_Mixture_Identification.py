@@ -36,7 +36,7 @@ import numpy as np
 import pandas as pd
 import matplotlib
 matplotlib.use('Agg')
-%matplotlib inline
+# %matplotlib inline
 import matplotlib.pyplot as plt
 
 import torch
@@ -52,7 +52,7 @@ from sklearn.metrics import confusion_matrix
 # -----------------------------------------------------------------------------
 # Project-specific imports
 # !git clone https://github.com/yfWang01/DeepMID
-os.chdir("DeepMID")
+# os.chdir("DeepMID")
 from DeepMID.readBruker import read_bruker_hs_base
 
 # -----------------------------------------------------------------------------
