@@ -53,7 +53,7 @@ from sklearn.metrics import confusion_matrix
 # Project-specific imports
 # !git clone https://github.com/yfWang01/DeepMID
 os.chdir("DeepMID")
-from readBruker import read_bruker_hs_base
+from DeepMID.readBruker import read_bruker_hs_base
 
 # -----------------------------------------------------------------------------
 # Utility: checkpoint saver (temperature removed)
