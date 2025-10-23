@@ -9,3 +9,4 @@ We provide three model variants for ablation:
 - transformer: Transformer-only (patch embedding to 64 tokens)
  
 The file with a small label correction for two reported test mixtures are saved in 'Formulated_Flavor_Ratios_new.csv'.
+Trained model:https://drive.google.com/file/d/1RTCCOoVYzfn24hsVD6cbsJ91KVLD1YAH/view?usp=sharing
